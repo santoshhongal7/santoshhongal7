@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Data-Structure, Algorithm, Dynamic Programmming
 - 🌱 I’m currently learning Data-Structure, Algorithm, Dynamic Programmming.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : santoshhongal@gmail.com
+- 📫 How to reach me : santoshhongal7@gmail.com
 
 <!---
 santoshhongal7/santoshhongal7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
